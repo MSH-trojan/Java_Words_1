@@ -1,5 +1,5 @@
 Concepts used in this program:
 
-Inheritance of classes
+1-Inheritance of classes
 
-Getters-and-setters
+2-Getters-and-setters
